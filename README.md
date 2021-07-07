@@ -1,4 +1,4 @@
-# flutter_practice_codepur
+# flutter_practice
 
 A new Flutter project.
 
