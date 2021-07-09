@@ -65,7 +65,16 @@ class _HomePageState extends State<HomePage> {
                           style: TextStyle(color: Colors.white),
                         ),
                       ),
-                      footer: Text(item.price.toString()),
+                      footer: Container(
+                        decoration: BoxDecoration(
+                          color: Colors.black,
+                        ),
+                        padding: const EdgeInsets.all(8),
+                        child: Text(
+                          item.price.toString(),
+                          style: TextStyle(color: Colors.white),
+                        ),
+                      ),
                       child: Image.network(item.image),
                     ),
                   );
