@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 import 'dart:convert';
 import 'package:flutter_practice_codepur/model/catalog.dart';
 import 'package:flutter_practice_codepur/widgets/drawer.dart';
-import 'package:flutter_practice_codepur/widgets/item_widget.dart';
 
 
 class OldHome extends StatefulWidget {
