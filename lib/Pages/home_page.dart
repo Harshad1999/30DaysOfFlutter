@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_practice_codepur/Utils/routes.dart';
+import '../Utils/routes.dart';
 import 'dart:convert';
-import 'package:flutter_practice_codepur/model/catalog.dart';
-import 'package:flutter_practice_codepur/widgets/home_Widgets/catalog_header.dart';
-import 'package:flutter_practice_codepur/widgets/home_Widgets/catalog_list.dart';
+import 'package:catalog_app/model/catalog.dart';
+import '../widgets/home_Widgets/catalog_header.dart';
+import '../widgets/home_Widgets/catalog_list.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class HomePage extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice_codepur/Utils/routes.dart';
+import '../Utils/routes.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class LoginPage extends StatefulWidget {
@@ -64,7 +64,6 @@ class _LoginPageState extends State<LoginPage> {
                 child: Column(
                   children: [
                     TextFormField(
-                      
                       decoration: InputDecoration(
                         hintText: "Enter Username",
                         labelText: "Username",

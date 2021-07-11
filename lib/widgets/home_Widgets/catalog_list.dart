@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice_codepur/Pages/home_detail_page.dart';
-import 'package:flutter_practice_codepur/model/catalog.dart';
+import 'package:catalog_app/Pages/home_detail_page.dart';
+import 'package:catalog_app/model/catalog.dart';
 
 import 'catalog_item.dart';
 

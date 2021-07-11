@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
-import 'package:flutter_practice_codepur/model/catalog.dart';
-import 'package:flutter_practice_codepur/widgets/drawer.dart';
+import '../model/catalog.dart';
+import '../widgets/drawer.dart';
 
 
 class OldHome extends StatefulWidget {
