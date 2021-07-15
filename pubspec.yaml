@@ -31,8 +31,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  velocity_x: ^3.3.0
-  vxstate: any
+  velocity_x: any
 
   #google_fonts: ^2.1.0
 
